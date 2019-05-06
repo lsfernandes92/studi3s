@@ -1,3 +1,6 @@
 [submodule "Ruby/Rails/rails-heroku"]
 	path = Ruby/Rails/rails-heroku
 	url = git@github.com:lsfernandes92/rails-heroku.git
+[submodule "Ruby/Rails/toy-app"]
+	path = Ruby/Rails/toy-app
+	url = git@github.com:lsfernandes92/toy-app.git
