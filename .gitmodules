@@ -1,0 +1,3 @@
+[submodule "Ruby/Rails/rails-heroku"]
+	path = Ruby/Rails/rails-heroku
+	url = git@github.com:lsfernandes92/rails-heroku.git
