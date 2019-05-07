@@ -4,3 +4,6 @@
 [submodule "Ruby/Rails/toy-app"]
 	path = Ruby/Rails/toy-app
 	url = git@github.com:lsfernandes92/toy-app.git
+[submodule "Ruby/Rails/API/notebook-api"]
+	path = Ruby/Rails/API/notebook-api
+	url = git@github.com:lsfernandes92/notebook-api.git
