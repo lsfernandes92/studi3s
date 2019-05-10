@@ -7,3 +7,6 @@
 [submodule "Ruby/Rails/API/notebook-api"]
 	path = Ruby/Rails/API/notebook-api
 	url = git@github.com:lsfernandes92/notebook-api.git
+[submodule "Docker/dockerizando_rails"]
+	path = Docker/dockerizando_rails
+	url = git@github.com:lsfernandes92/dockerizando_rails.git
