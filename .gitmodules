@@ -10,3 +10,6 @@
 [submodule "Docker/dockerizando_rails"]
 	path = Docker/dockerizando_rails
 	url = git@github.com:lsfernandes92/dockerizando_rails.git
+[submodule "Ruby/Rails/sample_app"]
+	path = Ruby/Rails/sample_app
+	url = git@github.com:lsfernandes92/sample_app.git
