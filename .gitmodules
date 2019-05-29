@@ -13,3 +13,6 @@
 [submodule "Ruby/Rails/sample_app"]
 	path = Ruby/Rails/sample_app
 	url = git@github.com:lsfernandes92/sample_app.git
+[submodule "Ruby/Rails/tiodopave"]
+	path = Ruby/Rails/tiodopave
+	url = git@github.com:lsfernandes92/tiodopave.git
