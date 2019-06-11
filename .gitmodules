@@ -16,3 +16,6 @@
 [submodule "Ruby/Rails/tiodopave"]
 	path = Ruby/Rails/tiodopave
 	url = git@github.com:lsfernandes92/tiodopave.git
+[submodule "Ruby/Rails/mini_hackernews"]
+	path = Ruby/Rails/mini_hackernews
+	url = https://github.com/lsfernandes92/mini_hackernews.git
