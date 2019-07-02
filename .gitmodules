@@ -19,3 +19,6 @@
 [submodule "Ruby/Rails/mini_hackernews"]
 	path = Ruby/Rails/mini_hackernews
 	url = https://github.com/lsfernandes92/mini_hackernews.git
+[submodule "Ruby/Rails/re-former"]
+	path = Ruby/Rails/re-former
+	url = https://github.com/lsfernandes92/re-former.git
