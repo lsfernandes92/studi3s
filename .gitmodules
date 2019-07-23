@@ -22,3 +22,6 @@
 [submodule "Ruby/Rails/re-former"]
 	path = Ruby/Rails/re-former
 	url = https://github.com/lsfernandes92/re-former.git
+[submodule "Ruby/ruby-intro"]
+	path = Ruby/ruby-intro
+	url = https://github.com/lsfernandes92/ruby-intro.git
