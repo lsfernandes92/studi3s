@@ -25,3 +25,6 @@
 [submodule "Ruby/ruby-intro"]
 	path = Ruby/ruby-intro
 	url = https://github.com/lsfernandes92/ruby-intro.git
+[submodule "Ruby/Rails/lojadecamisetas"]
+	path = Ruby/Rails/lojadecamisetas
+	url = https://github.com/lsfernandes92/lojadecamisetas.git
