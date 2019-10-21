@@ -28,3 +28,6 @@
 [submodule "Ruby/Rails/lojadecamisetas"]
 	path = Ruby/Rails/lojadecamisetas
 	url = https://github.com/lsfernandes92/lojadecamisetas.git
+[submodule "Ruby/Rails/private-events"]
+	path = Ruby/Rails/private-events
+	url = https://github.com/lsfernandes92/private-events.git

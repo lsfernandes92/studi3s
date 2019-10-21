@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  date: 2019-08-29 02:03:49
+  user: one
+
+two:
+  location: MyString
+  date: 2019-08-29 02:03:49
+  user: two

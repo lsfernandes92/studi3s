@@ -1,0 +1,6 @@
+<p>
+  <h1><%= event.name %></h1>
+  <li>organized by: <%= event.creator.name %></li>
+  <li>wher? <%= event.location %></li>
+  <li>when? <%= event.date.to_date %> when clock ticks <%= event.date.to_s(:time) %></li>
+</p>
