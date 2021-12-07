@@ -31,3 +31,6 @@
 [submodule "Ruby/Rails/private-events"]
 	path = Ruby/Rails/private-events
 	url = https://github.com/lsfernandes92/private-events.git
+[submodule "Ruby/Rails/friendly-couscous"]
+	path = Ruby/Rails/friendly-couscous
+	url = git@github.com:lsfernandes92/friendly-couscous.git
