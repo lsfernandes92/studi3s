@@ -34,3 +34,6 @@
 [submodule "Ruby/Rails/friendly-couscous"]
 	path = Ruby/Rails/friendly-couscous
 	url = git@github.com:lsfernandes92/friendly-couscous.git
+[submodule "Ruby/Rails/studious-couscous"]
+	path = Ruby/Rails/studious-couscous
+	url = git@github.com:lsfernandes92/studious-couscous.git
