@@ -37,6 +37,3 @@
 [submodule "Ruby/Rails/studious-couscous"]
 	path = Ruby/Rails/studious-couscous
 	url = git@github.com:lsfernandes92/studious-couscous.git
-[submodule "Ruby/Rails/legendary-couscous"]
-	path = Ruby/Rails/legendary-couscous
-	url = git@github.com:lsfernandes92/legendary-couscous.git
