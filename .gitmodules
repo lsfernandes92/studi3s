@@ -40,3 +40,6 @@
 [submodule "Ruby/Rails/legendary-couscous"]
 	path = Ruby/Rails/legendary-couscous
 	url = git@github.com:lsfernandes92/legendary-couscous.git
+[submodule "Ruby/Rails/API/potential-system"]
+	path = Ruby/Rails/API/potential-system
+	url = git@github.com:lsfernandes92/potential-system.git
