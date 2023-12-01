@@ -43,3 +43,6 @@
 [submodule "Ruby/Rails/API/potential-system"]
 	path = Ruby/Rails/API/potential-system
 	url = git@github.com:lsfernandes92/potential-system.git
+[submodule "Ruby/Rails/API/reimagined-invention"]
+	path = Ruby/Rails/API/reimagined-invention
+	url = git@github.com:lsfernandes92/reimagined-invention.git
