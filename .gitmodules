@@ -46,3 +46,6 @@
 [submodule "Ruby/Rails/API/reimagined-invention"]
 	path = Ruby/Rails/API/reimagined-invention
 	url = git@github.com:lsfernandes92/reimagined-invention.git
+[submodule "JavaScript/js-intro"]
+	path = JavaScript/js-intro
+	url = git@github.com:lsfernandes92/js-intro.git
