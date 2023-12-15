@@ -49,3 +49,6 @@
 [submodule "JavaScript/js-intro"]
 	path = JavaScript/js-intro
 	url = git@github.com:lsfernandes92/js-intro.git
+[submodule "JavaScript/byte-bank"]
+	path = JavaScript/byte-bank
+	url = git@github.com:lsfernandes92/byte-bank.git
