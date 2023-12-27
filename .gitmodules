@@ -55,3 +55,6 @@
 [submodule "Architecture/twelve-factor-app"]
 	path = Architecture/twelve-factor-app
 	url = git@github.com:lsfernandes92/twelve-factor-app.git
+[submodule "Ruby/Rails/curly-fiesta"]
+	path = Ruby/Rails/curly-fiesta
+	url = git@github.com:lsfernandes92/curly-fiesta.git
