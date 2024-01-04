@@ -58,3 +58,6 @@
 [submodule "Ruby/Rails/curly-fiesta"]
 	path = Ruby/Rails/curly-fiesta
 	url = git@github.com:lsfernandes92/curly-fiesta.git
+[submodule "Ruby/Rails/psychic-octo-funicular"]
+	path = Ruby/Rails/psychic-octo-funicular
+	url = git@github.com:lsfernandes92/psychic-octo-funicular.git
