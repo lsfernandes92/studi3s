@@ -61,3 +61,6 @@
 [submodule "Ruby/Rails/psychic-octo-funicular"]
 	path = Ruby/Rails/psychic-octo-funicular
 	url = git@github.com:lsfernandes92/psychic-octo-funicular.git
+[submodule "JavaScript/aluramidi"]
+	path = JavaScript/aluramidi
+	url = git@github.com:lsfernandes92/aluramidi.git
