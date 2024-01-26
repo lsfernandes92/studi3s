@@ -64,3 +64,6 @@
 [submodule "JavaScript/aluramidi"]
 	path = JavaScript/aluramidi
 	url = git@github.com:lsfernandes92/aluramidi.git
+[submodule "JavaScript/fokus"]
+	path = JavaScript/fokus
+	url = git@github.com:lsfernandes92/Fokus.git
