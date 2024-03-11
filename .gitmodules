@@ -67,3 +67,6 @@
 [submodule "JavaScript/fokus"]
 	path = JavaScript/fokus
 	url = git@github.com:lsfernandes92/Fokus.git
+[submodule "JavaScript/secret-number"]
+	path = JavaScript/secret-number
+	url = https://github.com/lsfernandes92/secret-number
