@@ -73,3 +73,6 @@
 [submodule "JavaScript/vidflow"]
 	path = JavaScript/vidflow
 	url = git@github.com:lsfernandes92/projeto-vidflow.git
+[submodule "JavaScript/alura-books"]
+	path = JavaScript/alura-books
+	url = git@github.com:lsfernandes92/alura-books.git
