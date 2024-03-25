@@ -76,3 +76,6 @@
 [submodule "JavaScript/alura-books"]
 	path = JavaScript/alura-books
 	url = git@github.com:lsfernandes92/alura-books.git
+[submodule "JavaScript/aluraplay"]
+	path = JavaScript/aluraplay
+	url = git@github.com:lsfernandes92/aluraplay.git
