@@ -79,3 +79,6 @@
 [submodule "JavaScript/aluraplay"]
 	path = JavaScript/aluraplay
 	url = git@github.com:lsfernandes92/aluraplay.git
+[submodule "JavaScript/monibank"]
+	path = JavaScript/monibank
+	url = git@github.com:lsfernandes92/monibank.git
