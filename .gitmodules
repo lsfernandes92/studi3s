@@ -82,3 +82,6 @@
 [submodule "JavaScript/monibank"]
 	path = JavaScript/monibank
 	url = git@github.com:lsfernandes92/monibank.git
+[submodule "JavaScript/videos-api"]
+	path = JavaScript/videos-api
+	url = git@github.com:lsfernandes92/videos-api.git
