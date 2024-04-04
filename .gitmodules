@@ -85,3 +85,6 @@
 [submodule "JavaScript/videos-api"]
 	path = JavaScript/videos-api
 	url = git@github.com:lsfernandes92/videos-api.git
+[submodule "Ruby/Rails/rails-demo"]
+	path = Ruby/Rails/rails-demo
+	url = git@github.com:lsfernandes92/rails-demo.git
