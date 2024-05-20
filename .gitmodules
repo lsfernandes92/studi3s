@@ -90,4 +90,4 @@
 	url = git@github.com:lsfernandes92/rails-demo.git
 [submodule "JavaScript/TypeScript/intro-part1"]
 	path = JavaScript/TypeScript/intro-part1
-	url = git@github.com:lsfernandes92/typescript-into.git
+	url = git@github.com:lsfernandes92/typescript-intro.git
