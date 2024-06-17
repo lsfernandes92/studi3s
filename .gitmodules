@@ -91,3 +91,6 @@
 [submodule "JavaScript/TypeScript/intro-part1"]
 	path = JavaScript/TypeScript/intro-part1
 	url = git@github.com:lsfernandes92/typescript-intro.git
+[submodule "JavaScript/TypeScript/fokus"]
+	path = JavaScript/TypeScript/fokus
+	url = git@github.com:lsfernandes92/fokus-ts.git
