@@ -94,3 +94,6 @@
 [submodule "JavaScript/TypeScript/fokus"]
 	path = JavaScript/TypeScript/fokus
 	url = git@github.com:lsfernandes92/fokus-ts.git
+[submodule "Ruby/Rails/blog"]
+	path = Ruby/Rails/blog
+	url = git@github.com:lsfernandes92/blog.git
