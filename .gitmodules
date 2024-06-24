@@ -97,3 +97,6 @@
 [submodule "Ruby/Rails/blog"]
 	path = Ruby/Rails/blog
 	url = git@github.com:lsfernandes92/blog.git
+[submodule "JavaScript/TypeScript/bytebank"]
+	path = JavaScript/TypeScript/bytebank
+	url = git@github.com:lsfernandes92/formacao-typescript-projeto-curso01.git
