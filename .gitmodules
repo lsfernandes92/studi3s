@@ -100,3 +100,6 @@
 [submodule "JavaScript/TypeScript/bytebank"]
 	path = JavaScript/TypeScript/bytebank
 	url = git@github.com:lsfernandes92/formacao-typescript-projeto-curso01.git
+[submodule "JavaScript/React/organo"]
+	path = JavaScript/React/organo
+	url = git@github.com:lsfernandes92/organo.git
