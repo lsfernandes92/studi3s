@@ -103,3 +103,6 @@
 [submodule "JavaScript/React/organo"]
 	path = JavaScript/React/organo
 	url = git@github.com:lsfernandes92/organo.git
+[submodule "JavaScript/browser-extensions/youtube-bookmarker"]
+	path = JavaScript/browser-extensions/youtube-bookmarker
+	url = git@github.com:lsfernandes92/youtube-bookmarker.git
