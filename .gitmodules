@@ -106,3 +106,6 @@
 [submodule "JavaScript/browser-extensions/youtube-bookmarker"]
 	path = JavaScript/browser-extensions/youtube-bookmarker
 	url = git@github.com:lsfernandes92/youtube-bookmarker.git
+[submodule "JavaScript/React/sorry-world"]
+	path = JavaScript/React/sorry-world
+	url = git@github.com:lsfernandes92/sorry-world.git
