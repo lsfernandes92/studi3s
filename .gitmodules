@@ -109,3 +109,6 @@
 [submodule "JavaScript/React/sorry-world"]
 	path = JavaScript/React/sorry-world
 	url = git@github.com:lsfernandes92/sorry-world.git
+[submodule "JavaScript/React/space-app"]
+	path = JavaScript/React/space-app
+	url = git@github.com:lsfernandes92/space-app.git
