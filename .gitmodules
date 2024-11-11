@@ -112,3 +112,6 @@
 [submodule "JavaScript/React/space-app"]
 	path = JavaScript/React/space-app
 	url = git@github.com:lsfernandes92/space-app.git
+[submodule "CSS/css-animations"]
+	path = CSS/css-animations
+	url = git@github.com:lsfernandes92/css-animations.git
