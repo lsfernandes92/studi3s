@@ -115,3 +115,6 @@
 [submodule "CSS/css-animations"]
 	path = CSS/css-animations
 	url = git@github.com:lsfernandes92/css-animations.git
+[submodule "JavaScript/browser-extensions/hello-world"]
+	path = JavaScript/browser-extensions/hello-world
+	url = git@github.com:lsfernandes92/hello-world.git
