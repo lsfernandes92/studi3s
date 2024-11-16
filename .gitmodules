@@ -124,3 +124,6 @@
 [submodule "JavaScript/browser-extensions/focus-mode"]
 	path = JavaScript/browser-extensions/focus-mode
 	url = git@github.com:lsfernandes92/focus-mode.git
+[submodule "JavaScript/browser-extensions/tabs-manager"]
+	path = JavaScript/browser-extensions/tabs-manager
+	url = git@github.com:lsfernandes92/tabs-manager.git
