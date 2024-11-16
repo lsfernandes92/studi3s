@@ -118,3 +118,9 @@
 [submodule "JavaScript/browser-extensions/hello-world"]
 	path = JavaScript/browser-extensions/hello-world
 	url = git@github.com:lsfernandes92/hello-world.git
+[submodule "JavaScript/browser-extensions/reading-time"]
+	path = JavaScript/browser-extensions/reading-time
+	url = git@github.com:lsfernandes92/reading-time.git
+[submodule "JavaScript/browser-extensions/focus-mode"]
+	path = JavaScript/browser-extensions/focus-mode
+	url = git@github.com:lsfernandes92/focus-mode.git
