@@ -130,6 +130,6 @@
 [submodule "CSS/wavecast"]
 	path = CSS/wavecast
 	url = git@github.com:lsfernandes92/wavecast.git
-[submodule "Ruby/Rails/Ruby/Rails/store"]
-	path = Ruby/Rails/Ruby/Rails/store
+[submodule "Ruby/Rails/store"]
+	path = Ruby/Rails/store
 	url = git@github.com:lsfernandes92/store.git
