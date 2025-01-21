@@ -133,3 +133,6 @@
 [submodule "Ruby/Rails/store"]
 	path = Ruby/Rails/store
 	url = git@github.com:lsfernandes92/store.git
+[submodule "Ruby/Rails/turbo-rails"]
+	path = Ruby/Rails/turbo-rails
+	url = git@github.com:lsfernandes92/turbo-rails.git
