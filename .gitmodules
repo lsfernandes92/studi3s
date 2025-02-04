@@ -136,3 +136,6 @@
 [submodule "Ruby/Rails/turbo-rails"]
 	path = Ruby/Rails/turbo-rails
 	url = git@github.com:lsfernandes92/turbo-rails.git
+[submodule "JavaScript/browser-extensions/find-in-playlist"]
+	path = JavaScript/browser-extensions/find-in-playlist
+	url = git@github.com:lsfernandes92/find-in-playlist.git
