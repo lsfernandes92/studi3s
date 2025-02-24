@@ -139,3 +139,6 @@
 [submodule "JavaScript/browser-extensions/find-in-playlist"]
 	path = JavaScript/browser-extensions/find-in-playlist
 	url = git@github.com:lsfernandes92/find-in-playlist.git
+[submodule "Ruby/Rails/splitwisier-turbo"]
+	path = Ruby/Rails/splitwisier-turbo
+	url = git@github.com:lsfernandes92/splitwisier-turbo.git
