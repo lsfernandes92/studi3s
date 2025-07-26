@@ -142,3 +142,6 @@
 [submodule "Ruby/Rails/store-dev-container"]
 	path = Ruby/Rails/store-dev-container
 	url = git@github.com:lsfernandes92/store-dev-container.git
+[submodule "Ruby/Rails/store"]
+	path = Ruby/Rails/store
+	url = git@github.com:lsfernandes92/store.git
