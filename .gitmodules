@@ -142,3 +142,6 @@
 [submodule "Ruby/Rails/splitwisier-turbo"]
 	path = Ruby/Rails/splitwisier-turbo
 	url = git@github.com:lsfernandes92/splitwisier-turbo.git
+[submodule "Ruby/Rails/store-dev-container"]
+	path = Ruby/Rails/store-dev-container
+	url = git@github.com:lsfernandes92/store-dev-container.git
